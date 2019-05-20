@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Blue component renders a Blue 1`] = `
+<Fragment>
+  <div
+    style={
+      Object {
+        "backgroundColor": "blue",
+        "height": "100vh",
+        "width": "100vw",
+      }
+    }
+  />
+</Fragment>
+`;
